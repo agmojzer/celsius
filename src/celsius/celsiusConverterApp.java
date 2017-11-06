@@ -3,6 +3,8 @@ package celsius;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
+//This is a Celsius converter. Enter a degree value in Celsius and it will tell you the equivalent in Fahrenheit.
+
 public class celsiusConverterApp {
 
 	public static void main(String[] args) {
